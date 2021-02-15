@@ -6,7 +6,7 @@ The purpose of this analysis was to determine the number of retiring emplyees pe
 
 ## Results
 
-![](https://github.com/Mikeblanchard/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.csv)
+![](https://github.com/Mikeblanchard/Pewlett-Hackard-Analysis/blob/main/retiring_departments.png)
 
 We have included this chart becasuse it is the most relevant to determining the job department of personnel at retirement age. The major takeaways from this data are:
 
