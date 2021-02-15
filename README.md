@@ -10,8 +10,14 @@ The purpose of this analysis was to determine the number of retiring emplyees pe
 
 We have included this chart becasuse it is the most relevant to determining the job department of personnel at retirement age. The major takeaways from this data are:
 
+- Over 90,000 employees are of retirement age.  
+
+This is the "silver tsunami" the comapny is looking into. The Pewlett-Hackard will have to hire and train many new people to account for this loss. Perhaps they could offer part time or contract work for the senior emplyees during this time of transition. 
+
 - The mast majority of people leaving the company are in Senior Engineering and Senior Staff roles. 
-- 
+
+These departments will be hardest hit during this retirement cycle. 
+
 
 
 
