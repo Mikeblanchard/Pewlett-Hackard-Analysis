@@ -24,19 +24,12 @@ These departments will be hardest hit during this retirement cycle.
 
 These postitions are a small percentage of the total body of employees retiring. Action must be taken to fill as many roles as possible. 
 
-- W
+- An effort to determine when the employees will retire should be undertaken. 
+
+Just because employees are a certain age, they might not be driven to retire. Some companies offer an age plus years worked magic number in order to recieve full retirement benefits, in order to get a better sense of retirement dates. 
 
 
 
-
-
-
-
-
-
-
-
-From these tables, we can see that there are four key takeaways: 1.) Almost a third of the retirees are Senior Engineers, while another third includes the rest of the Senior Staff. 2.) As a result, Senior Engineer and Senior Staff positions have the greatest priority when it comes to deciding which roles the company would like to fill. 3.) Among those that are retiring, there are 1,549 employees that qualify for the mentorship program. 4.) There are more people retiring than there are potential mentors, which means that the company would have to create an efficient program that can cover the disparity between the number of people retiring and the number of people who can be trained to fill these positions.
 
 ## Summary
 To determine how many roles will need to be filled as the "silver tsunami" begins to make an impact, we can create a graph to categorize the retirees into age groups. For each year, the company can hire (internally or externally) the amount of people that would be retiring, assuming that the retirement age is 65. Currently, we have a list of people who were born between 1952 and 1955. Therefore, we would have a different hiring quota for each of the following four years.
