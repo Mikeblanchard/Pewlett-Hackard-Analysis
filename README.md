@@ -4,6 +4,8 @@
 
 The purpose of this analysis was to determine the number of retiring emplyees per title and to identify the employees who are eligible for the mentorship program. Our client is concerned about the up coming "silver tusnami", a number of employees approching retirement age, signifying a massive change in personnel. We have created tables and charts with all the employee relevant emplyoee information, such as empoloyee number, first and last name, department and employement start and end date. 
 
+A link to the SQL code found here: https://github.com/Mikeblanchard/Pewlett-Hackard-Analysis/blob/main/Queries/Employee_Database_challange.sql
+
 ## Results
 
 ![](https://github.com/Mikeblanchard/Pewlett-Hackard-Analysis/blob/main/retiring_departments.png)
@@ -18,6 +20,11 @@ This is the "silver tsunami" the comapny is looking into. The Pewlett-Hackard wi
 
 These departments will be hardest hit during this retirement cycle. 
 
+- 1549 employees  are eligible for the mentorship program. 
+
+These postitions are a small percentage of the total body of employees retiring. Action must be taken to fill as many roles as possible. 
+
+- W
 
 
 
@@ -28,10 +35,6 @@ These departments will be hardest hit during this retirement cycle.
 
 
 
-
-The first table that determines the number of retiring employees and their position titles can be viewed here: retiring_titles.csv
-
-The second table that identifies employee who are eligible for the mentorship program can be viewed here: mentorship_eligibility.csv
 
 From these tables, we can see that there are four key takeaways: 1.) Almost a third of the retirees are Senior Engineers, while another third includes the rest of the Senior Staff. 2.) As a result, Senior Engineer and Senior Staff positions have the greatest priority when it comes to deciding which roles the company would like to fill. 3.) Among those that are retiring, there are 1,549 employees that qualify for the mentorship program. 4.) There are more people retiring than there are potential mentors, which means that the company would have to create an efficient program that can cover the disparity between the number of people retiring and the number of people who can be trained to fill these positions.
 
