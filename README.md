@@ -11,7 +11,7 @@ The purpose of this analysis was to determine the number of retiring emplyees pe
 We have included this chart becasuse it is the most relevant to determining the job department of personnel at retirement age. The major takeaways from this data are:
 
 - The mast majority of people leaving the company are in Senior Engineering and Senior Staff roles. 
-
+- 
 
 
 
