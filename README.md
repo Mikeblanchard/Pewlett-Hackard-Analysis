@@ -2,7 +2,7 @@
 
 ## Overview
 
-The purpose of this analysis is to create two tables: one to determine the number of retiring employees and their position titles, and the other to identify employees who are eligible to participate in a mentorship program. Within the first table, we included information such as employee number, first and last name, position title, and start and end date. In the second, we added employee number, first and last name, birth date, start and end date, and position title.
+The purpose of this analysis was to determine the number of retiring emplyees per title and to identify the employees who are eligible for the mentorship program. Our client is concerned about the up coming "silver tusnami", a number of employees approching retirement age, signifying a massive change in personnel. We have created tables and charts with all the employee relevant emplyoee information, such as empoloyee number, first and last name, department and employement start and end date. 
 
 ## Results
 The first table that determines the number of retiring employees and their position titles can be viewed here: retiring_titles.csv
