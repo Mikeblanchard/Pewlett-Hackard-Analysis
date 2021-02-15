@@ -28,10 +28,12 @@ These postitions are a small percentage of the total body of employees retiring.
 
 Just because employees are a certain age, they might not be driven to retire. Some companies offer an age plus years worked magic number in order to recieve full retirement benefits, in order to get a better sense of retirement dates. 
 
-
-
-
 ## Summary
-To determine how many roles will need to be filled as the "silver tsunami" begins to make an impact, we can create a graph to categorize the retirees into age groups. For each year, the company can hire (internally or externally) the amount of people that would be retiring, assuming that the retirement age is 65. Currently, we have a list of people who were born between 1952 and 1955. Therefore, we would have a different hiring quota for each of the following four years.
 
-If we look at the current projection of potential mentors and the amount of people retiring, we do not have enough retirees to mentor the next generation of employees. Moving forward, we can create a query that gives us a list of people who are retiring at the end of the current year (and for each following year). From there, the company can prioritize how many younger employees need to be trained to fill up the retired positions. It would also be beneficial if we created a query that grouped mentor-eligible employees into position titles. With this table, the company can plan the mentorship program, specifically, how many mentees a mentor can take on to fulfill the retired roles.
+As we mentioned, perhaps an analysis of tenure at the company should be looked at. Perhaps a better estimation of actual departure date could be determined, as from the table below:
+
+![](https://github.com/Mikeblanchard/Pewlett-Hackard-Analysis/blob/main/mentorship_chart.png)
+
+Beyond that, Pewlett-Hackard will need to be aggressive about hiring. This is an issue that many companies are experiencing with the departure of the baby-boomers from the workplace. We belive that some incentive should be put into place to retain some of the workforce for training purposes, either online or into the office. 
+
+
