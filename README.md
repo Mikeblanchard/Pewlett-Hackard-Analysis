@@ -5,6 +5,22 @@
 The purpose of this analysis was to determine the number of retiring emplyees per title and to identify the employees who are eligible for the mentorship program. Our client is concerned about the up coming "silver tusnami", a number of employees approching retirement age, signifying a massive change in personnel. We have created tables and charts with all the employee relevant emplyoee information, such as empoloyee number, first and last name, department and employement start and end date. 
 
 ## Results
+
+![](https://github.com/Mikeblanchard/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.csv)
+
+We have included this chart becasuse it is the most relevant to determining the job department of personnel at retirement age. The major takeaways from this data are:
+
+- 
+
+
+
+
+
+
+
+
+
+
 The first table that determines the number of retiring employees and their position titles can be viewed here: retiring_titles.csv
 
 The second table that identifies employee who are eligible for the mentorship program can be viewed here: mentorship_eligibility.csv
